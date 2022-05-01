@@ -13,6 +13,8 @@
 
 
 [![Site preview](/public/coinsRanking.png)](https://github.com/bobmwangih/Crypto-Ranking-FrontEnd)
+<br />
+<br />
 [![Site preview](/public/timeStamp.png)](https://github.com/bobmwangih/Crypto-Ranking-FrontEnd)
 
 ## Technology Stack 🛠️
@@ -23,5 +25,7 @@ Dependencies defined in package.json:
 | [Tailwind CSS](https://tailwindcss.com/docs/installation)
 | [Recharts ](https://recharts.org/en-US)
 | [Table Component](https://tailwindcomponents.com/components/tables)
-| [I learnt this from ](https://www.youtube.com/watch?v=hPtR_-EQU-4)
+<br />
+<br />
+I learnt this from [ Daily Code Buffer ](https://www.youtube.com/watch?v=hPtR_-EQU-4)
 
