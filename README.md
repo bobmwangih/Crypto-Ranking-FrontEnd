@@ -17,9 +17,7 @@
 <br />
 [![Site preview](/public/timeStamp.png)](https://github.com/bobmwangih/Crypto-Ranking-FrontEnd)
 
-## Technology Stack 🛠️
-
-Dependencies defined in package.json:
+## Technology Stack 🛠
 
 [NextJS](https://nextjs.org/)
 | [Tailwind CSS](https://tailwindcss.com/docs/installation)
